@@ -6,7 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    h1> Universidad Jose Gregorio Hernandez</h1>
-    h1> hola</h1>
+    <h1> Universidad Jose Gregorio Hernandez</h1>
+    <h1> hola</h1>
+    <h2> hola hola</h2>
 </body>
 </html>
